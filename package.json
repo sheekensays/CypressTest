@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cypress": "^12.0.2"
+  },
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "Test Cypress",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
